@@ -1,5 +1,5 @@
 public class SimpleInheritance {
-    public static  void  call(String args[]){
+    public static  void  call(){
         A superOb = new A();
         B subOb = new B();
 
